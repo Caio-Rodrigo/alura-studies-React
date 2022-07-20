@@ -1,7 +1,8 @@
 export interface ITarefa {
   tarefa: string;
-  Tempo: string;
+  tempo: string;
   selecionado: Boolean;
   completado: boolean;
   id: string;
+  
 }
